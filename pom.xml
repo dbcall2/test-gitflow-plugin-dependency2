@@ -74,7 +74,7 @@
 
                <gitFlowConfig>
                   <productionBranch>master</productionBranch>
-                  <developmentBranch>master</developmentBranch>
+                  <developmentBranch>develop</developmentBranch>
                   <featureBranchPrefix>feature/</featureBranchPrefix>
                   <releaseBranchPrefix>release/</releaseBranchPrefix>
                   <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
