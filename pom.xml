@@ -5,7 +5,7 @@
 
    <groupId>com.bcall</groupId>
    <artifactId>test-gitflow-plugin-dependency2</artifactId>
-   <version>1.0.3</version>
+   <version>1.0.4</version>
    <packaging>jar</packaging>
 
    <name>test-gitflow-plugin-dependency2</name>
@@ -67,7 +67,7 @@
          <plugin>
             <groupId>com.amashchenko.maven.plugin</groupId>
             <artifactId>gitflow-maven-plugin</artifactId>
-            <version>1.9.0</version>
+            <version>1.10.0</version>
             <configuration>
                <installProject>true</installProject>
                <verbose>true</verbose>
