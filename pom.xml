@@ -5,7 +5,7 @@
 
    <groupId>com.bcall</groupId>
    <artifactId>test-gitflow-plugin-dependency2</artifactId>
-   <version>1.0.1</version>
+   <version>1.0.2</version>
    <packaging>jar</packaging>
 
    <name>test-gitflow-plugin-dependency2</name>
